@@ -26,7 +26,7 @@ googleAnalytics = ""
   # Section - Content
   [params.content]
     name = "Shan Duncan"
-    tagline = "Dunocati LLC"
+    tagline = "Dunocati Consulting"
     bio = "Biologist, educator, past scientific society manager and editor, computer programmer, data wrangler and database guy"
 
   # Section - Visual
