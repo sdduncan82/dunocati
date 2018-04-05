@@ -27,7 +27,7 @@ googleAnalytics = ""
   [params.content]
     name = "Shan Duncan"
     tagline = "Dunocati Consulting"
-    bio = "Biologist, educator, past scientific society manager and editor, computer programmer, data wrangler and database guy"
+    bio = "Biologist, educator, past scientific society manager and editor, computer programmer, data wrangler and database guy."
 
   # Section - Visual
   [params.visual]
@@ -35,7 +35,7 @@ googleAnalytics = ""
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpeg"
+      file = "images/background.jpg"
       position = "center center"
 
     # Video
